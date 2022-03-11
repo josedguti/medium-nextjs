@@ -12,6 +12,8 @@
 /.next/
 /out/
 
+/mediumnextjs
+
 # production
 /build
 
